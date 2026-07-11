@@ -22,7 +22,6 @@ This lab provides a clean, reproducible Proxmox VE environment focused on MSP wh
 - **[SSH hardening](ca://s?q=Explicar_ssh_hardening)** — Key-based auth, disable root password login.
 
 ### 2. Cluster Creation
-
 pvecm create pve-cluster
 
 ### 3. Join Additional Nodes
