@@ -23,3 +23,9 @@ This lab provides a clean, reproducible Proxmox VE environment focused on MSP wh
 
 ### 2. Cluster Creation
 
+pvecm create pve-cluster
+
+### 3. Join Additional Nodes
+pvecm add <IP-of-PVE01>
+
+
